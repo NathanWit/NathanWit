@@ -14,7 +14,7 @@
 </div>
 
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=LouisTier&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=NathanWit&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="hey" align = "center">  
