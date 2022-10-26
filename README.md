@@ -32,7 +32,7 @@
 
 ### :battery:  Let me introduce myself : 
 
-- :fr: I am a **French** engineering student specialized in **artificial intelligence and data science**..   
+- 🇫🇷 I am a **French** engineering student specialized in **artificial intelligence and data science**..   
   <div id ="AI" align="center">
     <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="450" align ="center">
   </div>  
