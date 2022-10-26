@@ -9,7 +9,7 @@
 
   
   <a href="https://twitter.com/NathanWitkowicz">
-    <img src="https://img.shields.io/twitter/url?color=white&label=Twitter&style=social" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/twitter/url?color=white&label=Twitter&style=social" alt="Instagram Badge"/>
   </a>  
 </div>
 
