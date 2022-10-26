@@ -36,7 +36,7 @@
 
 ### :battery:  Let me introduce myself : 
 
-#### 🇫🇷 I am a **French** engineering student specialising in **artificial intelligence and data science**, currently doing an **internship at the CNRS** (French National Centre for Scientific Research) as part of my **thesis year**.
+#### 🇫🇷 I am a **French** engineering student specialising in **artificial intelligence and data science**, currently doing an **internship at the CNRS** (French National Centre for Scientific Research) as part of my **gap year**.
  
   <div id ="AI" align="center">
     <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="450" align ="center">
