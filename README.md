@@ -3,16 +3,13 @@
 </div>
 
 <div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/louis-berthier-5489211ba/">
+  <a href="https://www.linkedin.com/in/nathan-witkowicz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   
-  <a href="https://open.spotify.com/user/wlibsmlkzhdyuy722wiceemen?si=070f20aa85b942ad">
-    <img src="https://img.shields.io/badge/Spotify-brightgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a>
-  
-  <a href="https://www.instagram.com/louis_brthr/?hl=fr">
-    <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://twitter.com/NathanWitkowicz">
+    <img src="https://img.shields.io/twitter/url?color=white&label=Twitter&style=social" alt="Instagram Badge"/>
   </a>  
 </div>
 
