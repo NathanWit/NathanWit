@@ -33,8 +33,9 @@
   </h3>
 </div>
 
----
-### :battery:  Let me introduce myself : 
+<div id="text" align = "left">  
+  <h3>
+    ### :battery:  Let me introduce myself : 
 
 #### 🇫🇷 I am a **French** engineering student specialized in **artificial intelligence and data science**.
  
@@ -117,6 +118,10 @@
 
 
 </div>
+   
+  </h3>
+</div>
+
 
 ---
 
