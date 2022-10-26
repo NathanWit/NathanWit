@@ -30,11 +30,9 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
-### :battery: Let's get acquainted : 
+### :battery:  Let me introduce myself : 
 
-- :man: My pronouns are **He/Him**.
-
-- :fr: I am an engineering student from **Toulouse** who specializes in **artificial intelligence and data science**.   
+- :fr: I am a **French** engineering student specialized in **artificial intelligence and data science**..   
   <div id ="AI" align="center">
     <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="450" align ="center">
   </div>  
