@@ -49,8 +49,8 @@
 I am currently doing an **internship at CNRS** as part of my **gap year**. I am working on a **research topic** about the **detection of pathological oscillations in epilepsy** by convolutional neural network (**construction and explicability of CNN**). I am doing a gap year to discover the **workforce**over a longer period of time and to confirm the desire I have to work in **medical research**. And to ask myself the question  to carry out continuing my studies in **PhD**  before entering the workforce as a **data scientist/ML engineer**.
   
 - 🎾: In my leisure time I play many sports like **handball** in a club or **basketball** with friends. I am also interested in the **NBA**.
-  <div id ="Curry" align="center">
-    <img src="https://media.giphy.com/media/HRC3FlKFIj2WAIMDR3/giphy.gif" width="450" align ="center">
+  <div id ="CoupeDavis" align="center">
+    <img src="https://live.francetvinfo.fr/uploads/2017/11/26/19/5a1b0471d3f85dda93000123.gif" width="450" align ="center">
   </div>  
 
 - :joystick: I am a **video game enthusiast**. Since I'm little I play as well on console as on computer. Apart from video games, I am a **fan of E-sport** especially with the famous French structure **Karmine Corp** *(KC)*.
@@ -146,7 +146,7 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
 
 <div id ="Main repos" align="center">
 
-  [https://github.com/NathanWit/Grad_cam]
+  chttps://github.com/NathanWit/Grad_cam)
 
 
 </div>
