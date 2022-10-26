@@ -34,11 +34,6 @@
 </div>
 
 ---
-
-<div id ="banner" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
-</div>
-
 ### :battery:  Let me introduce myself : 
 
 - 🇫🇷 I am a **French** engineering student specialized in **artificial intelligence and data science**.
