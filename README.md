@@ -65,21 +65,11 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
     <img src="https://wave.fr/images/1916/09/pnl-au-dd-2.gif" width="450" align ="center">
   </div>  
 
-- :camera_flash: Besides the above hobbies, I am also interested in **photography**. Indeed, having participated and been a **finalist in modeling competitions**, photography has interested me. I joined a photo and video association where I was able to **cover many events**, **specialize in photo editing and video editing**.
 
-  <div id ="Photos" align="center">
-    <img src="https://user-images.githubusercontent.com/105392989/178432466-78add294-12ed-46ba-85c6-de45bb6066b3.png" width="450" align ="center">
-    <br></br>
-    <img src="https://user-images.githubusercontent.com/105392989/178433068-417a8898-1833-43ad-9db6-de7457084dda.png" width="450" align ="center"> 
-    <br></br>
-    <img src="https://user-images.githubusercontent.com/105392989/178432541-53c7e92c-7c70-46b5-a960-03191dfa6e8e.png" width="350" align ="center"> 
-    <img src="https://user-images.githubusercontent.com/105392989/178433915-b435cb3c-db07-4ed1-b4ee-16986e5ac83e.png" width="350" align ="center"> 
-  </div>
 
 - :email: How to reach me:
-    1. [Personal](mailto:louis_tier@outlook.com?subject=[GitHub%20LouisTier]%20:%20)
-    2. [Imperial College London](mailto:louis.berthier22@imperial.ac.uk?subject=[GitHub%20LouisTier]%20:%20) 
-    3. [IMT Mines Alès](mailto:louis.berthier@mines-ales.org?subject=[GitHub%20LouisTier]%20:%20) 
+    1. [Personal](mailto:nathan.witkowicz@gmail.com?subject=[GitHub%20NathanWit]%20:%20)
+    2. [IMT Mines Alès](mailto:nathan.witkowicz@mines-ales.org?subject=[GitHub%20NathanWit]%20:%20) 
 
 ---
 
@@ -149,7 +139,7 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
 
 <div id ="Main repos" align="center">
 
-  chttps://github.com/NathanWit/Grad_cam)
+  (https://github.com/NathanWit/Grad_cam)
 
 
 </div>
