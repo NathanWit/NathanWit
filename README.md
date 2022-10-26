@@ -85,7 +85,6 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/>&nbsp;
 
    - **Frameworks :**      
   
@@ -99,6 +98,8 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
   
        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4j" alt="Neo4j" width="80" height="80"/>&nbsp;
+  
         
   
   - **IDE :**
@@ -116,14 +117,8 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
   - **Operating systems and distribution :**  
   
       <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/>&nbsp;
 
-  - **Editing :**      
-  
-      <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro" alt="PremierePro" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects" alt="AfterEffects" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
 
 </div>
 
@@ -131,11 +126,11 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisTier&theme=github-dark-blue&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NathanWit&theme=github-dark-blue&background=000000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTIer&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanWit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTier&show_icons=true&theme=github_dark)
+![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanWit&show_icons=true&theme=github_dark)
 
 ---
 
@@ -143,12 +138,8 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
 
 <div id ="Main repos" align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=DeepLearning_BrainTumorsClassification&layout=compact&theme=github_dark)](https://github.com/LouisTier/DeepLearning_BrainTumorsClassification)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=Time_Series_Project&layout=compact&theme=github_dark)](https://github.com/LouisTier/Time_Series_Project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=KalmanFilter&layout=compact&theme=github_dark)](https://github.com/LouisTier/KalmanFilter)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=ArcelorMittal_Application&layout=compact&theme=github_dark)](https://github.com/LouisTier/ArcelorMittal_Application)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebScraping_NBA&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebScraping_NBA)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebApp_NBAStats&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebApp_NBAStats)
+  [https://github.com/NathanWit/Grad_cam]
+
 
 </div>
 
