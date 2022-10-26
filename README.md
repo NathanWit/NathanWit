@@ -35,15 +35,20 @@
 
 <div id="text" align = "left">  
   <h3>
-    ### :battery:  Let me introduce myself : 
+### :battery:  Let me introduce myself : 
 
 #### 🇫🇷 I am a **French** engineering student specialized in **artificial intelligence and data science**.
  
   <div id ="AI" align="center">
     <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="450" align ="center">
   </div>  
+<div id="present" align = "left">  
+  <h3>
+    I am currently doing an **internship at CNRS** as part of my **gap year**. We are working on a **research topic** about the **detection of pathological oscillations in epilepsy** by convolutional neural network (**construction and explicability of CNN**). The aim of my gap year is to discover the **workforce** over a longer period of time and to confirm the desire I have to work in **medical research**. Therefore it will help me to choose between continuing my studies in **PhD**  before entering the workforce as a **data scientist/ML engineer**.
 
-- I am currently doing an **internship at CNRS** as part of my **gap year**. We are working on a **research topic** about the **detection of pathological oscillations in epilepsy** by convolutional neural network (**construction and explicability of CNN**). The aim of my gap year is to discover the **workforce** over a longer period of time and to confirm the desire I have to work in **medical research**. Therefore it will help me to choose between continuing my studies in **PhD**  before entering the workforce as a **data scientist/ML engineer**.
+  </h3>
+</div>
+
   
 - 🎾: In my free time, I play several sports: **tennis** with my school club and **running** as an individual sport. I have already done several races like the **Paris half-marathon**.
 
