@@ -1,7 +1,7 @@
 <div id="Presentation" align = "center">  
   <h2>
     Nathan Witkowicz's Github
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+    
   </h2>
 </div>
 
@@ -27,6 +27,7 @@
 
 <div id="hey" align = "center">  
   <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
     Nice to meet you !
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
   </h3>
@@ -59,9 +60,10 @@ I am currently doing an **internship at CNRS** as part of my **gap year**. I am 
     <img src="https://c.tenor.com/XR2NC3JqAzAAAAAC/solary-solarmy.gif" width="450" align ="center">
   </div>  
 
-- :book: I like to read **horror novels** as well as **fantasy and science fiction books**. Apart from that, I'm very interested in **anime and manga**.
-
-- :headphones: While working, commuting, playing sports or doing any other activity, **I always listen to music**. I listen to everything from **pop** and **jazz** to **old school music** and **electro**. My favorite thing to listen to is **rap**, American and especially French!
+- :headphones: While working, commuting, playing sports or doing any other activity, **I always listen to music**. I mainly listen to **French rap** but many other styles are present in my playlist. 
+  <div id ="PNL" align="center">
+    <img src="https://wave.fr/images/1916/09/pnl-au-dd-2.gif" width="450" align ="center">
+  </div>  
 
 - :camera_flash: Besides the above hobbies, I am also interested in **photography**. Indeed, having participated and been a **finalist in modeling competitions**, photography has interested me. I joined a photo and video association where I was able to **cover many events**, **specialize in photo editing and video editing**.
 
