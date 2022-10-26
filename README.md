@@ -48,14 +48,15 @@
 
 I am currently doing an **internship at CNRS** as part of my **gap year**. I am working on a **research topic** about the **detection of pathological oscillations in epilepsy** by convolutional neural network (**construction and explicability of CNN**). I am doing a gap year to discover the **workforce**over a longer period of time and to confirm the desire I have to work in **medical research**. And to ask myself the question  to carry out continuing my studies in **PhD**  before entering the workforce as a **data scientist/ML engineer**.
   
-- 🎾: In my leisure time I play many sports like **handball** in a club or **basketball** with friends. I am also interested in the **NBA**.
+- 🎾: In my free time, I play several sports: **tennis** with my school club and **running** as an individual sport. I have already done several races like the **Paris half-marathon**.
+
   <div id ="CoupeDavis" align="center">
     <img src="https://live.francetvinfo.fr/uploads/2017/11/26/19/5a1b0471d3f85dda93000123.gif" width="450" align ="center">
   </div>  
 
-- :joystick: I am a **video game enthusiast**. Since I'm little I play as well on console as on computer. Apart from video games, I am a **fan of E-sport** especially with the famous French structure **Karmine Corp** *(KC)*.
-  <div id ="KC1" align="center">
-    <img src="https://c.tenor.com/7nlyiJsrJAcAAAAd/kcorp-karmine-corp.gif" width="450" align ="center">
+- 🕹️ I am a fan of video games. Since I was a kid, I have been playing on my computer. Now I play less but I still follow **E-sports**, especially by supporting one of the **French Solary structure** (SLY).
+  <div id ="SLY" align="center">
+    <img src="https://c.tenor.com/XR2NC3JqAzAAAAAC/solary-solarmy.gif" width="450" align ="center">
   </div>  
 
 - :book: I like to read **horror novels** as well as **fantasy and science fiction books**. Apart from that, I'm very interested in **anime and manga**.
