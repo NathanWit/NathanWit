@@ -32,14 +32,15 @@
 
 ### :battery:  Let me introduce myself : 
 
-- 🇫🇷 I am a **French** engineering student specialized in **artificial intelligence and data science**..   
+- 🇫🇷 I am a **French** engineering student specialized in **artificial intelligence and data science**.
+ 
   <div id ="AI" align="center">
     <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="450" align ="center">
   </div>  
 
-  I am currently studying at **Imperial College** in the MSc Computing AI and ML as part of a second degree to **complement my engineering degree**. This is an opportunity for me to diversify my skills before entering the workforce as a **data scientist/ML engineer** or before continuing my studies in **PhD**.
+I am currently doing an **internship at CNRS** as part of my **gap year**. I am working on a **research topic** about the **detection of pathological oscillations in epilepsy** by convolutional neural network (**construction and explicability of CNN**). I am doing a gap year to discover the **workforce**over a longer period of time and to confirm the desire I have to work in **medical research**. And to ask myself the question  to carry out continuing my studies in **PhD**  before entering the workforce as a **data scientist/ML engineer**.
   
-- :basketball: In my leisure time I play many sports like **handball** in a club or **basketball** with friends. I am also interested in the **NBA**.
+- 🎾: In my leisure time I play many sports like **handball** in a club or **basketball** with friends. I am also interested in the **NBA**.
   <div id ="Curry" align="center">
     <img src="https://media.giphy.com/media/HRC3FlKFIj2WAIMDR3/giphy.gif" width="450" align ="center">
   </div>  
