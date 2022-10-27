@@ -51,7 +51,7 @@
     <img src="https://live.francetvinfo.fr/uploads/2017/11/26/19/5a1b0471d3f85dda93000123.gif" width="450" align ="center">
   </div>  
 
-- 🕹️ I am a fan of video games. Since I was a kid, I have been playing on my computer. Now I play less but I still follow **E-sports**, especially by supporting one of the **French structure : Solary** (SLY).
+- 🕹️ I am a fan of video games. Since I was a kid, I have been playing on my computer. Now I play less but I still follow **E-sports**, especially by supporting one of the **French structures : Solary** (SLY).
   <div id ="SLY" align="center">
     <img src="https://c.tenor.com/XR2NC3JqAzAAAAAC/solary-solarmy.gif" width="450" align ="center">
   </div>  
