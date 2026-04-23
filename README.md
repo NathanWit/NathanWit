@@ -73,7 +73,7 @@ I am a **PhD Researcher** at **INSA Strasbourg**, working at the intersection of
 ### 📩 Let's Connect
 
 * 💼 **LinkedIn:** [Nathan Witkowicz](https://www.linkedin.com/in/nathan-witkowicz/)
-* 📧 **Personal Mail:** [nathan.witkowicz@gmail.com](mailto:nathan.witkowicz@gmail.com)
+* 📧 **Personal Mail:** [nathan.witkowicz@gmail.com](mailto:nathan.witkowicz@mines-ales.org)
 * 🏫 **Academic Mail:** [nathan.witkowicz@insa-strasbourg.fr](mailto:nathan.witkowicz@insa-strasbourg.fr)
 
 ---
