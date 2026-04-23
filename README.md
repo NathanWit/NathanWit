@@ -24,7 +24,7 @@
 I am a **PhD Researcher** at **INSA Strasbourg**, working at the intersection of structured knowledge and deep learning. My work focuses on leveraging AI to accelerate innovation and problem-solving.
 
 - **🔭 Research Topic:** Bridging **NLP** (Natural Language Processing) and **Knowledge Graphs** to automate and enhance the **TRIZ** methodology (Theory of Inventive Problem Solving).
-- **🎓 Background:** Engineering degree from **IMT Mines Alès** | Former Data Scientist at **Sidetrade**.
+- **🎓 Background:** Engineering degree from **IMT Mines Alès** | Former Data Scientist at **Sidetrade at Paris**, **CNRS Toulouse**, **Miami University in Ohio** and **Sanofi in Paris**.
 - **🎯 Goal:** Building intelligent systems that don't just process data, but understand and generate inventive solutions.
 
 ---
